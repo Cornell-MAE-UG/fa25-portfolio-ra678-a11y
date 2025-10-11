@@ -1,6 +1,6 @@
 ---
 layout: default
-title: <Your Name> - Portfolio
+title: Raina Abdul Kader - Portfolio
 permalink: /projects/
 ---
 

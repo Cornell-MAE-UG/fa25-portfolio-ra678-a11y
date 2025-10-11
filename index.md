@@ -1,6 +1,6 @@
 ---
 layout: default
-title: <Your Name>
+title: Raina Abdul Kader
 ---
 
 ## About Me
@@ -9,8 +9,6 @@ title: <Your Name>
 ![Profile Picture]({{ "assets/images/profile-pic.jpg" | relative_url }}){: class="profile-image"}
 
  
-My name is {{ site.name }}, and I am [your pitch paragraph about your passions, knowledge and interestst.] Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut nec accumsan leo. Pellentesque ornare orci enim, vitae vestibulum nibh rutrum in. Donec pharetra risus nec ipsum fringilla, et mattis tortor auctor. Duis tortor ante, posuere ut odio a, scelerisque interdum purus. Aenean faucibus luctus est, sed bibendum tellus. Nulla et magna urna. Morbi a ipsum sollicitudin, rhoncus risus volutpat, ultricies nunc. Quisque mollis finibus ante id imperdiet. Quisque vehicula elit sit amet felis facilisis fermentum.
-
-Aenean tincidunt aliquam arcu, in euismod dui dapibus eu. In placerat, mi et ultrices consequat, quam ligula cursus mauris, in semper neque nibh at est. Maecenas hendrerit dignissim porta. Phasellus nec fringilla dolor. Etiam efficitur nisi sit amet velit pharetra feugiat. Etiam ultrices turpis at leo semper, eleifend scelerisque neque malesuada. Aliquam molestie congue rhoncus. Donec blandit neque dolor, nec tristique mi pretium ac. Mauris tincidunt ullamcorper magna, nec pellentesque mi sagittis quis.
+I'm Raina Abdul Kader, a sophomore at Cornell University majoring in Mechanical Engineering. My passion for math and science drives my commitment to developing a deep understanding of engineering principles and contributing meaningfully to the field. Beyond the classroom, I'm an avid Formula One enthusiast with a strong interest in robotics and the automotive industry. I spend my free time building robots and teaching myself MATLAB and Arduino, constantly seeking opportunities to expand my technical skills. I'm eager to explore all facets of engineering and apply my growing expertise to real-world challenges in mechanical design and innovation.
 
 Take a look at <a href="{{ "/projects/" | relative_url }}">my projects</a> and <a href="{{ "/cv/" | relative_url }}">CV</a>.
