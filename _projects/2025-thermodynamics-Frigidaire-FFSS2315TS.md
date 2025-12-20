@@ -123,3 +123,9 @@ The total entropy change in this adds up to zero as this is a closed thermodynam
 The analysis of this Frigidaire refrigerator shows how a vapor-compression refrigeration cycle operates in the real world, connecting what we have learned in class to a real life application. Through this analysis I have applied the First Law of Thermodynamics on energy conservation, and the Second Law of Thermodynamics on entropy generation. By taking a specific device like a refrigerator, I have been able to verify the thermodynamic analysis by using the R-134a property tables to find enthalpy and entropy, and use the First and Second Law of Thermodynamics to quantify the performance of the refrigeration.
 
 
+## Sites Used for Information
+- https://www.frigidaireapplianceparts.com/Shop-For-Parts/a4b2/Frigidaire-Refrigerator-Parts
+
+- https://www.frigidaire.com/en/p/kitchen/refrigerators/side-by-side-refrigerators/FFSS2315TS?srsltid=AfmBOoorHbcmxXyYFYiQ8x03KrCwTiTGyLwJGjq3Rv-YN-H49c5bgZ0z
+
+- Thermodynamics R-134a Property Table
