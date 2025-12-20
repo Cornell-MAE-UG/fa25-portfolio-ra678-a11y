@@ -200,4 +200,59 @@ footer {
   transform: translateX(-4px);
 }
 
+/* utility: center inline images */
+.center-img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 100%;
+  height: auto;
+}
+
+/* Styled tables inside the main container for clearer organization */
+.container table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1rem 0;
+}
+.container table th,
+.container table td {
+  border: 1px solid #d6d9e0;
+  padding: 0.5rem 0.75rem;
+  vertical-align: top;
+}
+.container table thead th {
+  background-color: #f3f4f6;
+  font-weight: 700;
+}
+.container table tr:nth-child(even) td {
+  background-color: #fafafa;
+}
+
+
+/* Two images side-by-side responsive container */
+.side-by-side {
+  display: flex;
+  gap: 1rem;
+  justify-content: center;
+  align-items: flex-start;
+  flex-wrap: wrap;
+  margin: 1.25rem 0;
+}
+.side-by-side .side-img {
+  flex: 1 1 48%;
+  max-width: 48%;
+  display: block;
+  height: auto;
+  margin: 0;
+}
+
+@media (max-width: 640px) {
+  .side-by-side .side-img {
+    flex-basis: 100%;
+    max-width: 100%;
+  }
+}
+
+
 
