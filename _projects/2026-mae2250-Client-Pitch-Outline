@@ -1,0 +1,9 @@
+---
+layout: project
+title: Spotted Lanternflies Client Pitch and Outline
+description: MAE 2250 - Intro to Mechanical Design 
+image: assets/images/spotted-lanternfly.jpg
+---
+
+<iframe src="{{ '/assets/MAE 2250 3_ Client Outline and Pitch.pdf' | relative_url }}" width="100%" height="600px" style="border:1px solid #ccc;"></iframe>
+
