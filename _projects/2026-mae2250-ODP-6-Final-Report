@@ -1,0 +1,9 @@
+---
+layout: project
+title: Spotted Lanternflies Final Report
+description: MAE 2250 - Intro to Mechanical Design 
+exclude_from_gallery: true
+---
+
+<iframe src="{{ '/assets/ODP 6_ Client Report.pdf' | relative_url }}" width="100%" height="600px" style="border:1px solid #ccc;" title="Spotted Lanternflies Final Report PDF"></iframe>
+
